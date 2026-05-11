@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=9281FF&text=Orlando%20Mark%20Ayeras&fontAlign=50&fontAlignY=35&fontSize=48&desc=WebOps%20Engineer%20•%20WordPress/Drupal%20Specialist%20•%20Customer%20Success%20Engineer%20&descAlign=50&descAlignY=65&fontColor=FBFBFF" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=9281FF&text=Orlando%20Mark%20Ayeras&fontAlign=50&fontAlignY=30&fontSize=48&desc=WebOps%20Engineer%20•%20WordPress/Drupal%20Specialist%20•%20Customer%20Success%20Engineer%20&descAlign=50&descAlignY=65&fontColor=FBFBFF" alt="header" />
 </div>
 
 <!-- Social + Counters -->
