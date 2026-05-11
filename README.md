@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **orlandoayeras/orlandoayeras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -125,3 +123,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS"/>&nbsp;
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows"/>&nbsp;
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A5CE0,100:4B36D7&fontColor=ffffff" alt="footer" />
+</div>
