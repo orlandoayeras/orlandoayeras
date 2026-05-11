@@ -57,6 +57,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>&nbsp;
 </p>
 
+<!-- CMS and CLI Tools-->
+<p align="center">
+  <img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=000000" alt="Drupal"/>&nbsp;
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=000000" alt="WordPress"/>&nbsp;
+  <img src="https://img.shields.io/badge/pantheon-%23FFDC28.svg?style=for-the-badge&logo=pantheon&logoColor=black" alt="Pantheon"/>&nbsp;
+</p>
+
 <!-- Framework -->
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React"/>&nbsp;
@@ -84,7 +91,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>&nbsp;
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>&nbsp;
 </p>
 
