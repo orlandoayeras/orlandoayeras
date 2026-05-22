@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/orlando-mark-ayeras/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://om-ayeras-web.orlandomark-ayeras.workers.dev/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-7047EB?style=for-the-badge&logo=Portfolio&logoColor=white">
+  </a>
   <a href="https://github.com/orlandoayeras">
     <img alt="Stars" src="https://img.shields.io/github/stars/orlandoayeras?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6A5CE0&label=Stars">
   </a>
